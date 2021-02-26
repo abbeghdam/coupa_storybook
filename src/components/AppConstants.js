@@ -1,0 +1,53 @@
+module.exports = {
+  //  from colors.less
+  Colors: {
+    NEUTRAL_DARK: "#333",
+    NEUTRAL_MED_DARK: "#6A6969",
+    NEUTRAL_MEDIUM: "#999",
+    NEUTRAL_MED_LIGHT: "#CCC",
+    NEUTRAL_LIGHT: "#E9E9E9",
+    NEUTRAL_LIGHTER: "#F3F3F3",
+    NEUTRAL_LIGHTEST: "#F7F7F7",
+    LINK_COLOR: "#009BE0",
+    LABEL_COLOR: "#60768A",
+    INFO_COLOR: "#268ECD",
+    HIGHLIGHT_COLOR: "#F27921",
+    HIGHLIGHT_DARK: "#8533ff",
+    SUCCESS_COLOR: "#6AAF57",
+    WARNING_COLOR: "#F8E273",
+    WARNING_LIGHT_COLOR: "#FEFECB",
+    ERROR_COLOR: "#DF0F0F",
+    ERROR_LIGHT_COLOR: "#FFF4F4",
+    DISABLED_BUTTON_TEXT: "#BBB",
+    DISABLED_BORDER_COLOR: "#e4e4e4",
+    WHITE: "#FFFFFF",
+    BLACK: "#000",
+    BODY_TEXT: "#404040",
+    STEEL_GRAY: "#738DA4",
+    ADD_ICON_COLOR: "#5E9909"
+  },
+  ICON_BUTTON_SIZE: '1.385rem',
+
+  SCALE_SIZE: {
+    SMALL: 1,
+    MEDIUM: 2,
+    LARGE: 3
+  },
+  KeyCodes: {
+    ESC: 27,
+    ENTER: 13,
+    SPACE: 32,
+    UP_ARROW: 38,
+    DOWN_ARROW: 40,
+    RIGHT_ARROW: 39,
+    LEFT_ARROW: 37,
+    SHIFT: 16,
+    CTRL: 17,
+    TAB: 9,
+    DELETE: 46,
+    BACKSPACE: 8,
+    HOME: 36,
+    END: 35,
+    META: 91 //Mac Command Key
+  }
+};
